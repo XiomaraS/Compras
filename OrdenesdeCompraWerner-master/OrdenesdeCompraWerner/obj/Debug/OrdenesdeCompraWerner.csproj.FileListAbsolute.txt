@@ -1,0 +1,53 @@
+c:\users\werne\documents\visual studio 2015\Projects\OrdenesdeCompraWerner\OrdenesdeCompraWerner\bin\Debug\OrdenesdeCompraWerner.exe.config
+D:\OrdenesdeCompraWerner\OrdenesdeCompraWerner\bin\Debug\OrdenesdeCompraWerner.exe.config
+D:\OrdenesdeCompraWerner\OrdenesdeCompraWerner\bin\Debug\OrdenesdeCompraWerner.exe
+D:\OrdenesdeCompraWerner\OrdenesdeCompraWerner\bin\Debug\OrdenesdeCompraWerner.pdb
+D:\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.csprojResolveAssemblyReference.cache
+D:\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.Properties.Resources.resources
+D:\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.csproj.GenerateResource.Cache
+D:\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.csproj.CoreCompileInputs.cache
+D:\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.exe
+D:\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.pdb
+D:\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.Catalogos.resources
+D:\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.GenerarOC.resources
+D:\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.OC.resources
+D:\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.Ver_solicitudes.resources
+C:\Users\werne\Documents\Github\OrdenesdeCompraWerner\OrdenesdeCompraWerner\bin\Debug\OrdenesdeCompraWerner.exe.config
+C:\Users\werne\Documents\Github\OrdenesdeCompraWerner\OrdenesdeCompraWerner\bin\Debug\OrdenesdeCompraWerner.exe
+C:\Users\werne\Documents\Github\OrdenesdeCompraWerner\OrdenesdeCompraWerner\bin\Debug\OrdenesdeCompraWerner.pdb
+C:\Users\werne\Documents\Github\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.csprojResolveAssemblyReference.cache
+C:\Users\werne\Documents\Github\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.Catalogos.resources
+C:\Users\werne\Documents\Github\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.GenerarOC.resources
+C:\Users\werne\Documents\Github\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.OC.resources
+C:\Users\werne\Documents\Github\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.Properties.Resources.resources
+C:\Users\werne\Documents\Github\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.Ver_solicitudes.resources
+C:\Users\werne\Documents\Github\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.csproj.GenerateResource.Cache
+C:\Users\werne\Documents\Github\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.exe
+C:\Users\werne\Documents\Github\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.pdb
+C:\Users\werne\Documents\Github\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.ControlDemora.resources
+C:\Users\werne\Documents\Github\OrdenesdeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.CapturaOrden.resources
+C:\Users\werne\Documents\Github\OrdenesDeCompraWerner\OrdenesdeCompraWerner\bin\Debug\MySql.Data.dll
+C:\Users\werne\Documents\Github\OrdenesDeCompraWerner\OrdenesdeCompraWerner\bin\Debug\Navegador.pdb
+C:\Users\werne\Documents\Github\OrdenesDeCompraWerner\OrdenesdeCompraWerner\bin\Debug\MySql.Data.xml
+C:\Users\werne\Documents\Github\OrdenesDeCompraWerner\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.AlmacenarOCRealizadas.resources
+C:\Users\scarl\Documents\UMG\8 Semestre\Analisis II\Proyecto_2da\Final\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\bin\Debug\OrdenesdeCompraWerner.exe.config
+C:\Users\scarl\Documents\UMG\8 Semestre\Analisis II\Proyecto_2da\Final\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.exe
+C:\Users\scarl\Documents\UMG\8 Semestre\Analisis II\Proyecto_2da\Final\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.pdb
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\bin\Debug\OrdenesdeCompraWerner.exe.config
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.exe
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.pdb
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\bin\Debug\OrdenesdeCompraWerner.exe
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\bin\Debug\OrdenesdeCompraWerner.pdb
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\bin\Debug\MySql.Data.dll
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\bin\Debug\Navegador.pdb
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\bin\Debug\MySql.Data.xml
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.csprojResolveAssemblyReference.cache
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.AlmacenarOCRealizadas.resources
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.CapturaOrden.resources
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.Catalogos.resources
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.ControlDemora.resources
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.GenerarOC.resources
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.OC.resources
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.Properties.Resources.resources
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.Ver_solicitudes.resources
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_Compras\OrdenesdeCompraWerner-master\OrdenesdeCompraWerner\obj\Debug\OrdenesdeCompraWerner.csproj.GenerateResource.Cache
