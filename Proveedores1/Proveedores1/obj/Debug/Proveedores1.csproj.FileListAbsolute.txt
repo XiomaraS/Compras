@@ -1,0 +1,49 @@
+d:\users\raul\documents\visual studio 2015\Projects\Proveedores1\Proveedores1\bin\Debug\Proveedores1.exe.config
+d:\users\raul\documents\visual studio 2015\Projects\Proveedores1\Proveedores1\bin\Debug\Proveedores1.exe
+d:\users\raul\documents\visual studio 2015\Projects\Proveedores1\Proveedores1\bin\Debug\Proveedores1.pdb
+d:\users\raul\documents\visual studio 2015\Projects\Proveedores1\Proveedores1\obj\Debug\Proveedores1.csprojResolveAssemblyReference.cache
+d:\users\raul\documents\visual studio 2015\Projects\Proveedores1\Proveedores1\obj\Debug\Proveedores1.Form1.resources
+d:\users\raul\documents\visual studio 2015\Projects\Proveedores1\Proveedores1\obj\Debug\Proveedores1.Properties.Resources.resources
+d:\users\raul\documents\visual studio 2015\Projects\Proveedores1\Proveedores1\obj\Debug\Proveedores1.csproj.GenerateResource.Cache
+d:\users\raul\documents\visual studio 2015\Projects\Proveedores1\Proveedores1\obj\Debug\Proveedores1.exe
+d:\users\raul\documents\visual studio 2015\Projects\Proveedores1\Proveedores1\obj\Debug\Proveedores1.pdb
+d:\users\raul\documents\visual studio 2015\Projects\Proveedores1\Proveedores1\obj\Debug\Proveedores1.ingreso.resources
+d:\users\raul\documents\visual studio 2015\Projects\Proveedores1\Proveedores1\obj\Debug\Proveedores1.movimientos.resources
+d:\Users\Raul\Documents\Visual Studio 2015\Projects\Proveedores1\Proveedores1\obj\Debug\Proveedores1.MovProveedores.resources
+d:\Users\Raul\Documents\Visual Studio 2015\Projects\Proveedores1\Proveedores1\obj\Debug\Proveedores1.TranProveedores.resources
+d:\Users\Raul\Documents\Visual Studio 2015\Projects\Proveedores1\Proveedores1\bin\Debug\dllconnectionDatabase.dll
+d:\Users\Raul\Documents\Visual Studio 2015\Projects\Proveedores1\Proveedores1\bin\Debug\Navegador.dll
+d:\Users\Raul\Documents\Visual Studio 2015\Projects\Proveedores1\Proveedores1\bin\Debug\MySql.Data.dll
+d:\Users\Raul\Documents\Visual Studio 2015\Projects\Proveedores1\Proveedores1\bin\Debug\dllconnectionDatabase.pdb
+d:\Users\Raul\Documents\Visual Studio 2015\Projects\Proveedores1\Proveedores1\bin\Debug\Navegador.pdb
+d:\Users\Raul\Documents\Visual Studio 2015\Projects\Proveedores1\Proveedores1\bin\Debug\MySql.Data.xml
+d:\Users\Raul\Documents\Visual Studio 2015\Projects\Proveedores1\Proveedores1\obj\Debug\Proveedores1.MantTranProveedores.resources
+d:\Users\Raul\Documents\Visual Studio 2015\Projects\Proveedores1\Proveedores1\obj\Debug\Navegador.Navegador.resources
+d:\Users\Raul\Documents\Visual Studio 2015\Projects\Proveedores1\Proveedores1\bin\Debug\es-GT\Proveedores1.resources.dll
+d:\Users\Raul\Documents\Visual Studio 2015\Projects\Proveedores1\Proveedores1\obj\Debug\Proveedores1.MantTranProveedores.es-GT.resources
+d:\Users\Raul\Documents\Visual Studio 2015\Projects\Proveedores1\Proveedores1\obj\Debug\es-GT\Proveedores1.resources.dll
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\bin\Debug\Proveedores1.exe.config
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\obj\Debug\Proveedores1.exe
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\obj\Debug\Proveedores1.pdb
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\bin\Debug\Proveedores1.exe
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\bin\Debug\Proveedores1.pdb
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\bin\Debug\es-GT\Proveedores1.resources.dll
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\bin\Debug\MySql.Data.dll
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\bin\Debug\dllconnectionDatabase.pdb
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\bin\Debug\MySql.Data.xml
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\bin\Debug\Navegador.pdb
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\obj\Debug\Proveedores1.csprojResolveAssemblyReference.cache
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\obj\Debug\Proveedores1.Form1.resources
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\obj\Debug\Proveedores1.ingreso.resources
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\obj\Debug\Proveedores1.MantTranProveedores.resources
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\obj\Debug\Proveedores1.movimientos.resources
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\obj\Debug\Proveedores1.MovProveedores.resources
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\obj\Debug\Navegador.Navegador.resources
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\obj\Debug\Proveedores1.Properties.Resources.resources
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\obj\Debug\Proveedores1.TranProveedores.resources
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\obj\Debug\Proveedores1.MantTranProveedores.es-GT.resources
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\obj\Debug\Proveedores1.csproj.GenerateResource.Cache
+d:\Users\Raul\Documents\Proveedores1\Proveedores1\obj\Debug\es-GT\Proveedores1.resources.dll
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_cxp_cxc_y_compras\Proveedores1\Proveedores1\bin\Debug\Proveedores1.exe.config
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_cxp_cxc_y_compras\Proveedores1\Proveedores1\obj\Debug\Proveedores1.exe
+C:\Users\scarl\Documents\Visual Studio 2015\Projects\Modulo_cxp_cxc_y_compras\Proveedores1\Proveedores1\obj\Debug\Proveedores1.pdb
