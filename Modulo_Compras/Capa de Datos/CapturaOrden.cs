@@ -97,6 +97,7 @@ namespace OrdenesdeCompraWerner
                 sumatoria2 += Convert.ToDouble(row.Cells["precio"].Value);
             }
             //Por ultimo asignamos el resultado a el texto de nuestro Label
+
            label15.Text = Convert.ToString(sumatoria*sumatoria2);
             label2.Text = Globales.proveedor;
             label3.Text = Globales.direccion;
@@ -105,6 +106,7 @@ namespace OrdenesdeCompraWerner
             DateTime Hoy = DateTime.Today;
             string fecha_actual = Hoy.ToString("yyyy-MM-dd");
             label16.Text = fecha_actual;
+            label17.Text = Convert.ToString(Globales.oc);
 
         }
 
@@ -115,29 +117,7 @@ namespace OrdenesdeCompraWerner
 
         private void button3_Click(object sender, EventArgs e)
         {
-            try
-            {
-                //This is my connection string i have assigned the database file address path  
-                string MyConnection2 = "Driver ={ MySQL ODBC 3.51 Driver }; Dsn=hotelsancarlos; UID=root; PWD=1234; Database=hotelsancarlosv2; ";
-                //This is my insert query in which i am taking input from the user through windows forms  
-                string Query = "insert into hotelsancarlosv2.controldemoras(id_oc,fecha_incial) values('" + Globales.oc + "','" + label16.Text + "');";
-                //This is  MySqlConnection here i have created the object and pass my connection string.  
-                OdbcConnection MyConn2 = new OdbcConnection(MyConnection2);
-                //This is command class which will handle the query and connection object.  
-                OdbcCommand MyCommand2 = new OdbcCommand(Query, MyConn2);
-                OdbcDataReader MyReader2;
-                MyConn2.Open();
-                MyReader2 = MyCommand2.ExecuteReader();     // Here our query will be executed and data saved into the database.  
-                MessageBox.Show("Ordenes de Compra Generado");
-                while (MyReader2.Read())
-                {
-                }
-                MyConn2.Close();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
+            
 
             Image bmp = null;
                 Size sz = this.Size;
@@ -147,7 +127,7 @@ namespace OrdenesdeCompraWerner
                 memoryGraphics.CopyFromScreen(this.Location.X, this.Location.Y, 0, 0, sz,
                                               CopyPixelOperation.SourceCopy);
 
-                bmp.Save("OC.bmp", ImageFormat.Bmp);
+                bmp.Save("ORDEN DE COMPRA.bmp", ImageFormat.Bmp);
 
             this.Hide();
         }

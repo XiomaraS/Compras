@@ -204,13 +204,17 @@ namespace OrdenesdeCompraWerner
             Globales.direccion = textBox2.Text;
             Globales.representante = textBox1.Text;
             Globales.cantidad = textBox6.Text;
-     
+            string año, mes, dia, fecha;
+            año = dateTimePicker1.Value.Year.ToString();
+            mes = dateTimePicker1.Value.Month.ToString();
+            dia = dateTimePicker1.Value.Day.ToString();
+            fecha = año + "/" + mes + "/" + dia;
             try
             {
                 //This is my connection string i have assigned the database file address path  
                 string MyConnection2 = "Driver ={ MySQL ODBC 3.51 Driver }; Dsn=hotelsancarlos; UID=root; PWD=1234; Database=hotelsancarlosv2; ";
                 //This is my insert query in which i am taking input from the user through windows forms  
-                string Query = "insert into hotelsancarlosv2.ORDENESDECOMPRA(id_oc,idProveedores,idProducto,cantidad,categoria) values('" + Globales.oc + "','" + this.comboBox2.Text + "','" + this.comboBox3.Text + "','" + Globales.cantidad + "','" + Globales.departamento + "');";
+                string Query = "insert into hotelsancarlosv2.ORDENESDECOMPRA(id_oc,idProveedores,idProducto,cantidad,categoria,fecha_prevista_de_recibido) values('" + Globales.oc + "','" + this.comboBox2.Text + "','" + this.comboBox3.Text + "','" + Globales.cantidad + "','" + Globales.departamento + "','" + fecha + "');";
                 //This is  MySqlConnection here i have created the object and pass my connection string.  
                 OdbcConnection MyConn2 = new OdbcConnection(MyConnection2);
                 //This is command class which will handle the query and connection object.  
@@ -228,6 +232,7 @@ namespace OrdenesdeCompraWerner
             {
                 MessageBox.Show(ex.Message);
             }
+            
 
         }
 
@@ -242,6 +247,11 @@ namespace OrdenesdeCompraWerner
         }
 
         private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
         {
 
         }
